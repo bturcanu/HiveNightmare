@@ -22,7 +22,7 @@ This script attempts to remediate the HiveNightmare vulnerability on your system
 ### Detecting the vulnerability
 1. Open PowerShell.
 2. Navigate to the directory containing `DetectHiveNightmare.ps1`.
-3. Run the script: .\DetectHiveNightmare.ps1
+3. Run the script: `.\DetectHiveNightmare.ps1`.
 
 If your system is vulnerable, the script will display "HiveNightmare vulnerability detected!". If not, it will display "System is not vulnerable to HiveNightmare."
 
